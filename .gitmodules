@@ -1,0 +1,3 @@
+[submodule "themes/hexo-liveforcode"]
+	path = themes/hexo-liveforcode
+	url = https://github.com/first19326/Hexo-LiveForCode.git
